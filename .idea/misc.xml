@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_add.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_contacts.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_daily.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_detail.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_edit.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_editphone.xml" value="0.2328125" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_list.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/activity_main.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/contactlist_item.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/gyeon/AndroidStudioProjects/calendar3/app/src/main/res/layout/contacts_list.xml" value="0.23385416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 28 Platform" project-jdk-type="Android SDK" />
+</project>
