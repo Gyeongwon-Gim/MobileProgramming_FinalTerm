@@ -33,10 +33,10 @@ public class DBHelper extends SQLiteOpenHelper{
         ArrayList<ToDoItem> toDoItems = new ArrayList<>();
 
         SQLiteDatabase db = getReadableDatabase();
-        Cursor cursor = db.rawQuery("SELECT * FROM ToDoList ORDER BY writeDate DESC", null); //cursor : 가르키다
+        Cursor cursor = db.rawQuery("SELECT * FROM ToDoList ORDER BY writeDate DESC", null);
         if(cursor.getCount() != 0) { //데이터가 있으면
             while (cursor.moveToNext()){ //다음 데이터가 없을때까지
-                int id = cursor.getInt(cursor.getColumnIndex("id")); //cursor가 가르켜 가져옴 / 데이터를 변수에 넣어줄거임
+                int id = cursor.getInt(cursor.getColumnIndex("id"));
                 String title = cursor.getString(cursor.getColumnIndex("title"));
                 String content = cursor.getString(cursor.getColumnIndex("content"));
                 String writeDate = cursor.getString(cursor.getColumnIndex("writeDate"));
